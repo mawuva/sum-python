@@ -1,1 +1,3 @@
-Queques configurations
+Quelques configurations
+
+lorem ipsum

@@ -1,1 +1,3 @@
-Petite Exo pour la somme en Python
+# Petite Exo pour la somme en Python
+
+Ce script fait la somme de deux nombres en pyton
